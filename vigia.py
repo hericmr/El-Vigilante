@@ -44,9 +44,9 @@ def exibir_feed_camera(lugar, url):
 
 def selecionar_camera(cameras):
     entrada = exibir_menu()
-    for item in entrada:
-        lugar = cameras[f"{item}"]["lugar"]
-        url = cameras[f"{item}"]["url"]
+    for chave in entrada:
+        lugar = cameras[f"{chave}"]["lugar"]
+        url = cameras[f"{chave}"]["url"]
         exibir_feed_camera(lugar, url)
 
 V = "\033[31m"  # vermelho
