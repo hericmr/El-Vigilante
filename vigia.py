@@ -52,7 +52,6 @@ def selecionar_camera(cameras):
 V = "\033[31m"  # vermelho
 R = "\033[35m"  # roxo
 
-# Dicionário de câmeras com seus URLs e nomes dos locais
 cameras = {
 "0" : {"lugar": "do Canal 6","url": "https://egov.santos.sp.gov.br/santosmapeada/css/img/cameras/cam1593/snap_c1.jpg?1677157043869"},
 "1" : {"lugar": "da Canoagem","url": "https://egov.santos.sp.gov.br/santosmapeada/css/img/cameras/cam1464/snap_c1.jpg?1677191520757"},
