@@ -3,7 +3,7 @@ import numpy as np
 import multiprocessing
 import time
 
-def exibir_menu():git commit -m "Primeiro commit"
+def exibir_menu():
 
     print(V + """
 ⠀⠀⠀⠀⠀⠀⠈⣷⣄⠀⠀⠀⠀⣾⣷⠀⠀⠀⠀⣠⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀
