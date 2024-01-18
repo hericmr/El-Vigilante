@@ -1,4 +1,4 @@
-# El Vigilante - Santos - Héric Moura's Final Project
+# El Vigilante - Santos 
 #### Video Demo:  https://youtu.be/-QPwhqUjOpc
 #### Description:
 
