@@ -3,7 +3,7 @@
 #### Site: https://hericmr.github.io/cameras/
 #### Description:
 
-"El Vigilante - Santos" is a aplication that allows users to view real-time camera feeds from  some locations in Santos, Brazil. Developed in Python using OpenCV, this app leverages the public cameras from the Santos city government for a virtual watch.
+"El Vigilante - Santos" is rapository with some scripts that allows users to view real-time camera feeds from  some locations in Santos, Brazil. Developed in Python using OpenCV, this app leverages the public cameras from the Santos city government for a virtual watch.
 
 The project is composed of a single Python script, `project.py`, which handles all the functionality of the program. The script starts by presenting the user  a list of available cameras to choose from. Each camera is associated with a unique number, and the user simply needs to input the number corresponding to the camera they wish to view. If any invalid inputs are inserted by the user a ValueError will be called.
 
